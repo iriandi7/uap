@@ -3,7 +3,7 @@
 ## Overview Problems
 Masalah yang ditemukan dari project ini yaitu bagaimana cara membuat model dengan akurasi yang baik dari dataset RPS yang telah diberikan.
 
-![image 1](Images/Gambar-tiap-kelas.png)
+![image 1](Assets/Gambar-tiap-kelas.png)
 
 ## Overview Dataset
 Dataset ini sudah tersedia pada link google drive yang dibagikan kepada praktikan, dataset dibagi menjadi 85% training, 15% validation.<br>link url untuk download dataset : https://drive.google.com/drive/folders/16ugqhXnjkhJS6xmP3D_PA2_Mj-nTHQdD?usp=drive_link
