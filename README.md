@@ -15,26 +15,22 @@ Untuk model kami menggunakan model _MobileNetV2_ dan ini adalah ilustrasi bagaim
 
 ![image 2](asset/Mobilenetv2-architecture.png)
 
-Summary Model :
-
-![image 3](asset/Summary.png)
-
 Graph accuracy dan loss model :
 
-![image 4](asset/Acc&Loss-Graph.png)
+![image 3](asset/Acc&Loss-Graph.png)
 
 Classifcation Report Model :
 
-![image 5](asset/Classification-Report.png)
+![image 4](asset/Classification-Report.png)
 
 ## Prediction and Deployment
 
 Prediksi yang diambil yaitu 10 gambar acak dari testing dan melihat bagaimana model dapat memprediksi gambar dengan baik, berikut ini adalah hasilnya :
 
-![image 6](asset/Predict.png)
+![image 5](asset/Predict.png)
 
 Deployment ini menggunakan Flask dan dapat dilihat sebagai berikut :
 
-![image 7](asset/tampilan.png)
+![image 6](asset/tampilan.png)
 
-![image 8](asset/hasil.png)
+![image 7](asset/hasil.png)
